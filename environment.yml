@@ -40,6 +40,9 @@ dependencies:
 - libiconv=1.15=hdd342a3_7
 - libpng=1.6.34=he12f830_0
 - libsodium=1.0.16=h3efe00b_0
+- libxml2=2.9.8=hab757c2_1
+- libxslt=1.1.32=hb819dd2_0
+- lxml=4.2.5=py37hef8c89e_0
 - markupsafe=1.0=py37h1de35cc_1
 - matplotlib=3.0.0=py37h54f8f79_0
 - mistune=0.8.3=py37h1de35cc_1
@@ -106,5 +109,3 @@ dependencies:
   - mkl-random==1.0.1
   - prometheus-client==0.4.0
   - prompt-toolkit==2.0.5
-prefix: /Users/michel/.conda/envs/nlp-kaggle-medium
-
